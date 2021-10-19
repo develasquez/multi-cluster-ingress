@@ -17,7 +17,7 @@ Unless required by applicable law or agreed to in writing, software distributed 
 
 https://cloud.google.com/kubernetes-engine/docs/how-to/multi-cluster-ingress-setup
 
-![diagram](/mci-diagram.png)
+![diagram](./mci-diagram.png)
 
 ## Set Vars
 
